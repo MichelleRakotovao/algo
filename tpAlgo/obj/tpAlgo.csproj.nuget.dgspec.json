@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Desktop\\algo\\tpAlgo\\tpAlgo.csproj": {}
+    "c:\\Users\\ASUS\\Desktop\\algo\\tpAlgo\\tpAlgo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Desktop\\algo\\tpAlgo\\tpAlgo.csproj": {
+    "c:\\Users\\ASUS\\Desktop\\algo\\tpAlgo\\tpAlgo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\algo\\tpAlgo\\tpAlgo.csproj",
+        "projectUniqueName": "c:\\Users\\ASUS\\Desktop\\algo\\tpAlgo\\tpAlgo.csproj",
         "projectName": "tpAlgo",
-        "projectPath": "C:\\Users\\Administrator\\Desktop\\algo\\tpAlgo\\tpAlgo.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Desktop\\algo\\tpAlgo\\obj\\",
+        "projectPath": "c:\\Users\\ASUS\\Desktop\\algo\\tpAlgo\\tpAlgo.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\ASUS\\Desktop\\algo\\tpAlgo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
